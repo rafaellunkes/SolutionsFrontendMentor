@@ -9,7 +9,7 @@ body {
     font-size: 15px;
 }
 
-.conteiner {
+main {
     background-color: hsl(0, 0%, 100%);
     border-radius: 18px;
     display: flex;
